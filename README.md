@@ -7,3 +7,4 @@ various methods to find the sum of two numbers in python
 3 using operator add method
 4 using lambda method
 5 using recursive function
+ all are in python
